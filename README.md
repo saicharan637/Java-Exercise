@@ -18,3 +18,6 @@ Find out top 5 players in each game by their total points for each week (hint: l
 Find out top 5 players in each game by their total points bi-weekly - every 2 weeks (hint: list 5 players in game 1 with top scores between Aug 1st - Augt 14th)
 
 4. Create a proper project structure for the above problem statement, indent the code properly, add comments to the code, perform all git operations on the code (git clone, add, commit, fetch, pull, etc). Each of the above requirements should be an individual commit to the github
+![1](https://user-images.githubusercontent.com/22254732/156906796-31c04a5a-f2c2-4670-b140-89ca2656eff9.png)
+![2](https://user-images.githubusercontent.com/22254732/156906798-182d5755-0620-41c5-bce5-85a1d170e7b5.png)
+![3](https://user-images.githubusercontent.com/22254732/156906799-b15a7e6d-5f05-4e83-acd3-7789a9409aac.png)
